@@ -219,3 +219,4 @@ the 2 pizza flavors "alot and pepperoni" -dump
 "do the eggs have expiration dates" -skull
 "skull im tired of the child labour" -sophie
 "'Its not child labour if you lie about the age' sophie youre now 30" -skull
+"why do you think you and sophie are besties? she was destined to be your white bestie" -tech
