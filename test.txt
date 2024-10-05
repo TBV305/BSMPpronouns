@@ -218,3 +218,4 @@ the 2 pizza flavors "alot and pepperoni" -dump
 "i burn because im hot" -skull
 "do the eggs have expiration dates" -skull
 "skull im tired of the child labour" -sophie
+"'Its not child labour if you lie about the age' sophie youre now 30" -skull
