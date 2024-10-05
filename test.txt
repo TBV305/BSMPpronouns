@@ -221,3 +221,4 @@ the 2 pizza flavors "alot and pepperoni" -dump
 "'Its not child labour if you lie about the age' sophie youre now 30" -skull
 "why do you think you and sophie are besties? she was destined to be your white bestie" -tech
 "look theres 3 germans here, me, sophie and-" -skull "and me!" -dela "-and munch.." -skull
+"youre the honorary german" -skull
