@@ -1,4 +1,4 @@
-0 fallback
+0 default (local)
 1 halloween
-2 default (local)
+2 origins
 3 orlando
